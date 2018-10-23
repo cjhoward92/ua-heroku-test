@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/cjhoward92/heroku-test/issues"
   },
-  "homepage": "https://github.com/cjhoward92/heroku-test#readme"
+  "homepage": "https://github.com/cjhoward92/heroku-test#readme",
+  "dependencies": {
+    "request": "^2.88.0"
+  }
 }
